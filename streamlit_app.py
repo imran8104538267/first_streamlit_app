@@ -1,2 +1,2 @@
 import streamlit
-stream.title('Hi myself imran')
+streamlit.title('Hi myself imran')
